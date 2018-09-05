@@ -1,0 +1,7 @@
+C:\Users\YL\source\repos\DateDiff\DateDiff\bin\Debug\DateDiff.exe.config
+C:\Users\YL\source\repos\DateDiff\DateDiff\bin\Debug\DateDiff.exe
+C:\Users\YL\source\repos\DateDiff\DateDiff\bin\Debug\DateDiff.pdb
+C:\Users\YL\source\repos\DateDiff\DateDiff\obj\Debug\DateDiff.csprojAssemblyReference.cache
+C:\Users\YL\source\repos\DateDiff\DateDiff\obj\Debug\DateDiff.csproj.CoreCompileInputs.cache
+C:\Users\YL\source\repos\DateDiff\DateDiff\obj\Debug\DateDiff.exe
+C:\Users\YL\source\repos\DateDiff\DateDiff\obj\Debug\DateDiff.pdb
